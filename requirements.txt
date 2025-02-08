@@ -7,7 +7,7 @@ tensorflow
 scikit-learn
 xgboost
 torch
-pywt
+PyWavelets
 arch
 stable-baselines3
 shap
