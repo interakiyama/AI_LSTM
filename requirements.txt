@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+xgboost
+torch
+pywt
+arch
+stable-baselines3
+shap
+gym
